@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @redenj
+- 👀 I’m interested in ... Coding
+- 🌱 I’m currently learning ... Application Development
+- 💞️ I’m looking to collaborate on ...my project
+- 📫 How to reach me ... jomilloreden@gmail.com
